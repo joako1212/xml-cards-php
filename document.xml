@@ -1,0 +1,48 @@
+<?xml version="1.0"?>  
+<Tests xmlns="http://www.adatum.com">  
+  <Test TestId="0001">  
+    <title>
+    Convert number to string
+    </title>  
+    <description>
+    Descripción del primer item
+    </description>
+    <image>
+    src="tierra.jpg"
+    </image>
+    <enlace>
+    https://theblogdealfredo.blogspot.com/
+    </enlace>
+      
+  </Test>  
+  <Test TestId="0002">  
+    <title>
+    Find succeeding characters
+    </title>  
+    <description>
+    Descripción del segundo item
+    </description>
+    <image>
+    src="tierra.jpg"
+    </image>
+    <enlace>
+   https://theblogdealfredo.blogspot.com/
+    </enlace>
+
+  </Test>  
+  <Test TestId="0003">  
+    <title>
+    Convert multiple numbers to strings
+    </title> 
+    <description>
+    Descripción del tercer item
+    </description>
+    <image>
+    src="tierra.jpg"
+    </image>
+    <enlace>
+   https://theblogdealfredo.blogspot.com/
+    </enlace>
+  </Test>  
+    
+</Tests> 
